@@ -1,5 +1,7 @@
 # Statistical Process Control (SPC) Engine
 
+[![Tests](https://github.com/Hassankusow/spc-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/Hassankusow/spc-engine/actions/workflows/tests.yml)
+
 A Python-based SPC monitoring system for semiconductor manufacturing process data. Implements industry-standard control charting, Western Electric rule detection, and process capability analysis used in fab environments.
 
 ---
